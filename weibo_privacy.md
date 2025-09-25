@@ -1,21 +1,21 @@
-# B站评论爬取工具隐私政策
+# 微博评论爬取工具隐私政策
 
 ## 中文版本
 
-### B站评论爬取工具隐私政策
+### 微博评论爬取工具隐私政策
 
 #### 1. 介绍
-本隐私政策阐述了B站评论爬取工具浏览器扩展（以下简称"本扩展"）如何处理用户数据。我们高度重视您的隐私，并致力于透明地说明我们收集、使用和保护信息的方式。
+本隐私政策阐述了微博评论爬取工具浏览器扩展（以下简称"本扩展"）如何处理用户数据。我们高度重视您的隐私，并致力于透明地说明我们收集、使用和保护信息的方式。
 
 #### 2. 数据收集
 本扩展设计为尽可能少地收集用户数据。我们收集的信息仅限于：
-- **公开评论数据**：从Bilibili（B站）视频、番剧和动态页面爬取的公开评论信息
+- **公开评论数据**：从微博（微博）博文、热搜和话题页面爬取的公开评论信息
 - **基本使用信息**：扩展功能使用情况（如爬取次数）
 
 我们**不收集**以下信息：
-- 您的B站账号密码
+- 您的微博账号密码
 - 个人身份信息
-- 浏览历史（除B站相关页面外）
+- 浏览历史（除微博相关页面外）
 - 任何敏感个人信息
 
 #### 3. 数据使用
@@ -31,13 +31,13 @@
 我们**不会**与任何第三方分享、出售或交易您的数据。
 
 #### 6. Cookie使用
-本扩展仅使用B站必要的Cookie来访问公开评论数据，不会访问或存储您的登录凭证或其他敏感Cookie信息。
+本扩展仅使用微博必要的Cookie来访问公开评论数据，不会访问或存储您的登录凭证或其他敏感Cookie信息。
 
 #### 7. 权限说明
 本扩展请求以下浏览器权限：
 - **存储权限**：用于保存扩展设置
 - **下载权限**：用于保存生成的CSV文件
-- **B站域名访问权限**：用于爬取公开评论数据
+- **微博域名访问权限**：用于爬取公开评论数据
 
 #### 8. 用户权利
 您拥有以下权利：
@@ -56,21 +56,21 @@
 
 ## English Version
 
-### Bilibili Comment Crawler Privacy Policy
+### Weibo Comment Crawler Privacy Policy
 
 
 #### 1. Introduction
-This Privacy Policy explains how the Bilibili Comment Crawler browser extension (hereinafter referred to as "the Extension") handles user data. We value your privacy and are committed to transparently explaining how we collect, use, and protect information.
+This Privacy Policy explains how the Weibo Comment Crawler browser extension (hereinafter referred to as "the Extension") handles user data. We value your privacy and are committed to transparently explaining how we collect, use, and protect information.
 
 #### 2. Data Collection
 The Extension is designed to collect as little user data as possible. The information we collect is limited to:
-- **Public comment data**: Public comment information crawled from Bilibili videos, bangumi, and opus pages
+- **Public comment data**: Public comment information crawled from Weibo posts, trending topics, and hashtag pages
 - **Basic usage information**: Extension feature usage (such as crawl counts)
 
 We do **NOT collect** the following information:
-- Your Bilibili account passwords
+- Your Weibo account passwords
 - Personally identifiable information
-- Browsing history (except for Bilibili-related pages)
+- Browsing history (except for Weibo-related pages)
 - Any sensitive personal information
 
 #### 3. Data Usage
@@ -86,13 +86,13 @@ All crawled data is stored only on your local device and is not uploaded to any 
 We do **NOT** share, sell, or trade your data with any third parties.
 
 #### 6. Cookie Usage
-The Extension uses only necessary Bilibili cookies to access public comment data and does not access or store your login credentials or other sensitive cookie information.
+The Extension uses only necessary Weibo cookies to access public comment data and does not access or store your login credentials or other sensitive cookie information.
 
 #### 7. Permission Explanation
 The Extension requests the following browser permissions:
 - **Storage permission**: For saving extension settings
 - **Download permission**: For saving generated CSV files
-- **Bilibili domain access permission**: For crawling public comment data
+- **Weibo domain access permission**: For crawling public comment data
 
 #### 8. User Rights
 You have the following rights:

@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "微博评论爬取工具",
+  "name": "一键导出所有微博评论信息",
   "version": "1.0",
-  "description": "支持爬取微博评论并导出为CSV文件",
+  "description": "【完全免费💥】一键导出任意💓微博💓下面的所有评论内容(性别、IP地址、粉丝牌),上手即用！",
   "permissions": [
     "downloads",
     "storage",
